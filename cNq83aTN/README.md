@@ -1,4 +1,4 @@
-# cNq83aTN
+Learning outcome
 
 Throughout the development of this portfolio project, I've learned several valuable lessons:
 
