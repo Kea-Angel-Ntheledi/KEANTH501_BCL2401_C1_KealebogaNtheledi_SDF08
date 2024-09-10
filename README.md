@@ -1,15 +1,19 @@
-**KEANTH501_BCL2401_C1_KealebogaNtheledi_SDF08**
+## KEANTH501_BCL2401_C1_KealebogaNtheledi_SDF08
 
-Throughout the development of this portfolio project, I've learned several valuable lessons:
+### Throughout the development of this portfolio project, I've learned several valuable lessons:
 
-Importance of Responsive Design: Prioritizing responsive design ensures that the website is accessible to a broader audience, leading to improved user engagement and satisfaction.
+#### Importance of Responsive Design: 
+Prioritizing responsive design ensures that the website is accessible to a broader audience, leading to improved user engagement and satisfaction.
 
-Media Queries and Flexbox: Leveraging media queries and flexbox layouts has been crucial in creating a responsive and visually appealing design that adapts to different screen sizes and orientations.
+#### Media Queries and Flexbox: 
+Leveraging media queries and flexbox layouts has been crucial in creating a responsive and visually appealing design that adapts to different screen sizes and orientations.
 
-Accessibility Considerations: Incorporating accessibility features, such as semantic HTML tags, proper alt attributes for images, and keyboard navigation, enhances the usability of the website for all users, including those with disabilities.
+#### Accessibility Considerations: 
+Incorporating accessibility features, such as semantic HTML tags, proper alt attributes for images, and keyboard navigation, enhances the usability of the website for all users, including those with disabilities.
 
-Continuous Learning: Building this portfolio has reinforced the importance of continuous learning and staying updated with the latest web development trends and technologies. I've enjoyed exploring new tools and techniques to enhance the functionality and aesthetics of the website.
+#### Continuous Learning: 
+Building this portfolio has reinforced the importance of continuous learning and staying updated with the latest web development trends and technologies. I've enjoyed exploring new tools and techniques to enhance the functionality and aesthetics of the website.
 
-By reflecting on these lessons, I've gained valuable insights that will inform my future projects and contribute to my growth as a web developer.
+##### By reflecting on these lessons, I've gained valuable insights that will inform my future projects and contribute to my growth as a web developer.
 
 Netlify Link: https://app.netlify.com/sites/unique-semifreddo-0026ea/overview
